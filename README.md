@@ -28,4 +28,4 @@ git clone https://github.com/crackige/Elite
 
 cd Elite
 
-python Elite.py
+python elite.py
